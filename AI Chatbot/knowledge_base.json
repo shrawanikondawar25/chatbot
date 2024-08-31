@@ -1,0 +1,52 @@
+{
+  "question": [
+    {
+      "question": "Hello",
+      "answer": "Hey"
+    },
+    {
+      "question": "How are you??",
+      "answer": "I'm fine!! what about you?"
+    },
+    {
+      "question": "I'm fine too",
+      "answer": "Great!!"
+    },
+    {
+      "question": "What works you do for me ?",
+      "answer": "I will answer you and learn from your answers "
+    },
+    {
+      "question": "what can you do",
+      "answer": "I can answer you and learn from your response "
+    },
+    {
+      "question": "how can i call you ",
+      "answer": "you can run the program and i will start answering your questions "
+    },
+    {
+      "question": "What is the capital of india",
+      "answer": "Delhi"
+    },
+    {
+      "question": "capital of india",
+      "answer": "Delhi"
+    },
+    {
+      "question": "hi",
+      "answer": "Hey There!!"
+    },
+    {
+      "question": "im fine",
+      "answer": "im fine"
+    },
+    {
+      "question": "what is your name ?",
+      "answer": "Durgesh"
+    },
+    {
+      "question": "HI",
+      "answer": "Hey "
+    }
+  ]
+}
